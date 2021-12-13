@@ -2,7 +2,7 @@
 
 ## This is a blerb about me. 
 
-I am Roger. I like to code in react. Love da React!
+I am Matt. I like to code in react. Love da React!
 
 ### This is how I will keep myself in a growth mindset
 
