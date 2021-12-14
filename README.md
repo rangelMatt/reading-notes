@@ -4,6 +4,14 @@
 
 Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept. 
 
+### What is Growth Mindset
+
+![growth_mindset](https://user-images.githubusercontent.com/95889943/146064901-7bef9445-55b0-4c31-9e17-badc8edc9e97.jpeg)
+
+A Growth Mindset is something that anyone can achieve but hard to conquer, because it is unconquerable. It is something that needs to be practiced everyday. It's when you face a difficult obstacle that is like a wall you can not climb or breakthrough, but finding a way around it anyways. The motivation is not what's on the otherside of the wall, but the steps on how to get to the otherside of the wall. Seeing others accomplishing these same feats, and being inspired to do the same and not viewing it as a threat. 
+
+I can safely say that I have a fixed mindset, but I also practice having a growth mindset. This is like a muscle that needs to be exercised on a consistent basis. If it is not exercised, the less one will be able to benefit in the successes in life. It's ok to fail, but don't quit. Keep moving forward. 
+
 ### This is how I will keep myself in a growth mindset
 
 * Talk through the steps of an obstacle, out loud. Write down clues as they materialize. 
