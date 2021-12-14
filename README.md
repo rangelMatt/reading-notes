@@ -2,7 +2,7 @@
 
 ## Self Proclaimed Lifelong Learner 
 
-I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept. 
+Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept. 
 
 ### This is how I will keep myself in a growth mindset
 
