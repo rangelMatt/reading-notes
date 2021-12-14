@@ -21,7 +21,7 @@ I can safely say that I have a fixed mindset, but I also practice having a growt
 ---
 ### Summary 
 
-Consciously stopping and thinking about the growth mindset when effort is being required/asked of. No pain, no gain is true. I do a physical work out every day to remind my mind of this saying. I have to push through mentally to either get out of bed, do an extra rep, or an extra lap. This is to remind my brain, outside of working out, that I can put in the extra effort at work, with the family, and with friends as well.
+Consciously stopping and thinking about the growth mindset when effort is being required/asked of. No pain, no gain is true. I do a physical work out every day to remind my mind of this saying. I have to push through mentally to either get out of bed, do an extra rep, or an extra lap. This is to remind my brain, outside of working out, that I can put in the extra effort at work, and with family and friends as well.
 
 [Matt Rangel][2]
 
