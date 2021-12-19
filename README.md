@@ -7,6 +7,7 @@
 - [Class 1 Reading](class1reading.md)
 - [Class 2 Reading](read02reflection.md)
 - [Class 3 Reading](class3.md)
+- [Class 4 Reading](class4.md)
 
 Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept.
 
