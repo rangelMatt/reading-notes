@@ -1,4 +1,4 @@
-# Desing Web pages with CSS
+# Designing Web pages with CSS
 
 ## What is CSS?
 
