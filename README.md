@@ -10,6 +10,7 @@
 - [Class 4 Reading](class4.md)
 - [Class 5 Reading](class5.md)
 - [Class 6 Reading](class6.md)
+- [Class 7 Reading](class7.md)
 
 Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept.
 
@@ -23,8 +24,8 @@ I can safely say that I have a fixed mindset, but I also practice having a growt
 
 ### This is how I will keep myself in a growth mindset
 
-- Talk through the steps of an obstacle, out loud. Write down clues as they materialize. <br>
-- Recognizing that I am getting stuck or hitting a roadblock, then stand up, put down the project that is sucking the rhythm out, walk away, and return when I'm feeling more inspired. <br>
+- Talk through the steps of an obstacle, out loud. Write down clues as they materialize.
+- Recognizing that I am getting stuck or hitting a roadblock, then stand up, put down the project that is sucking the rhythm out, walk away, and return when I'm feeling more inspired.
 - This should lead to more successes of getting back at it to do one more thing, then another, and before I realize it, I've got my groove back.
 
 ---
