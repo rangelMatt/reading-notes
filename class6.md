@@ -54,7 +54,7 @@ In order to process the information that comes in, the computer needs to modify 
 
 #### Hardware and Software
 
-Circuits chips wires plugs and stuff is the hardware within the computer. Software includes app, games, etc. 
+Circuits chips wires plugs and stuff is the hardware within the computer. Software includes app, games, etc.
 
 CPU is the masterchip that controls all the other parts of the computer. It has circuits to do math and logic. It recievese simple commands and then stores it in the memory, and outputs.
 
@@ -62,3 +62,4 @@ Software language tells the CPU what to do. How do programs get on the computer?
 
 Operating system, is the master prgram that manages how software uses the hardware of a computer. It has special abilities that helps control the rest of the programs.
 
+[<---BACK](README.md)
