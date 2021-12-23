@@ -11,6 +11,7 @@
 - [Class 5 Reading](class5.md)
 - [Class 6 Reading](class6.md)
 - [Class 7 Reading](class7.md)
+- [Class 8 Reading](class8.md)
 
 Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept.
 
