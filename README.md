@@ -15,7 +15,7 @@
 
 ### Code 201 Reading Notes Table of Contents
 
-- [Class 1 Reading](201class1.md)
+- [Class 1 Reading](201class-01.md)
 - [Class 2 Reading](201class2.md)
 - [Class 3 Reading](201class3.md)
 - [Class 4 Reading](201class4.md)
