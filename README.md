@@ -2,7 +2,7 @@
 
 ## Lifelong Learner
 
-### Table of Contents
+### Code 102 Reading Notes Table of Contents
 
 - [Class 1 Reading](class1reading.md)
 - [Class 2 Reading](read02reflection.md)
@@ -12,6 +12,26 @@
 - [Class 6 Reading](class6.md)
 - [Class 7 Reading](class7.md)
 - [Class 8 Reading](class8.md)
+
+### Code 201 Reading Notes Table of Contents
+
+- [Class 1 Reading](201class1.md)
+- [Class 2 Reading](201class2.md)
+- [Class 3 Reading](201class3.md)
+- [Class 4 Reading](201class4.md)
+- [Class 5 Reading](201class5.md)
+- [Class 6 Reading](201class6.md)
+- [Class 7 Reading](201class7.md)
+- [Class 8 Reading](201class8.md)
+- [Class 9 Reading](201class9.md)
+- [Class 10 Reading](201class10.md)
+- [Class 11 Reading](201class11.md)
+- [Class 12 Reading](201class12.md)
+- [Class 13 Reading](201class13.md)
+- [Class 14 Reading](201class14.md)
+- [Class 15 Reading](201class15.md)
+
+---------------
 
 Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept.
 
@@ -29,7 +49,7 @@ I can safely say that I have a fixed mindset, but I also practice having a growt
 - Recognizing that I am getting stuck or hitting a roadblock, then stand up, put down the project that is sucking the rhythm out, walk away, and return when I'm feeling more inspired.
 - This should lead to more successes of getting back at it to do one more thing, then another, and before I realize it, I've got my groove back.
 
----
+---------------
 
 ### Summary
 
