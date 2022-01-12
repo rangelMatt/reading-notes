@@ -17,7 +17,7 @@
 
 - [Class 1 Reading](201class-01.md)
 - [Class 2 Reading](201class-02.md)
-- [Class 3 Reading](201class3.md)
+- [Class 3 Reading](201class-03.md)
 - [Class 4 Reading](201class4.md)
 - [Class 5 Reading](201class5.md)
 - [Class 6 Reading](201class6.md)
