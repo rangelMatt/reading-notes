@@ -1,3 +1,3 @@
-# Code 201 Class 15 Reading Notes
+# Code 201 Class 14b Reading Notes
 
 [<---BACK](README.md)
