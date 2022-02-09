@@ -1,8 +1,6 @@
-# Growth Mindset
+# Reading Notes
 
-## Lifelong Learner
-
-### Code 102 Reading Notes Table of Contents
+## Code 102 - Intro to Software Development
 
 - [Class 1 Reading](class1reading.md)
 - [Class 2 Reading](read02reflection.md)
@@ -13,7 +11,7 @@
 - [Class 7 Reading](class7.md)
 - [Class 8 Reading](class8.md)
 
-### Code 201 Reading Notes Table of Contents
+## Code 201 - Foundations of Software Development
 
 - [Class 1 Reading](201class-01.md)
 - [Class 2 Reading](201class-02.md)
@@ -31,7 +29,15 @@
 - [Class 14a Reading](201class-14a.md)
 - [Class 14b Reading](201class-14b.md)
 
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
 ---------------
+
+## Growth Mindset
+
+### Lifelong Learner
 
 Hello, I am Matt, and I love to learn. But it doesn't mean that I don't get *frustrated* and want to quit sometimes. I live in a constant battle of wanting to learn something quickly and knowing it immediately to ~~throwing the computer against the wall~~ being okay with struggling to learn a new concept.
 
