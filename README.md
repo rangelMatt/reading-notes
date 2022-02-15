@@ -32,6 +32,7 @@
 ## Code 301 - Intermediate Software Development
 
 - [Class 01 Reading](301class-01.md)
+- [Class 02 Reading](301class-02.md)
 
 ## Code 401 - Advanced Software Development
 
