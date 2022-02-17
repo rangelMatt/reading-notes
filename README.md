@@ -34,6 +34,7 @@
 - [Class 01 Reading](301class-01.md)
 - [Class 02 Reading](301class-02.md)
 - [Class 03 Reading](301class-03.md)
+- [Class 04 Reading](301class-04.md)
 
 ## Code 401 - Advanced Software Development
 
