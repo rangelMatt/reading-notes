@@ -46,6 +46,7 @@
 - [Class 13 Reading](301class-13.md)
 - [Class 14 Reading](301class-14.md)
 - [Class 15 Reading](301class-15.md)
+- [Self 01 Reading](301self-01.md)
 
 ## Code 401 - Advanced Software Development
 
