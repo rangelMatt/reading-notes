@@ -51,6 +51,8 @@
 
 ## Code 401 - Advanced Software Development
 
+- [Prework 01 Reading](401class-pre01.md)
+
 ---------------
 
 ## Growth Mindset
