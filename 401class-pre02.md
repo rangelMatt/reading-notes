@@ -20,10 +20,12 @@
      - `man -k <search term>`, will allow one to search within a manual page. THIS WILL SAVE SO MUCH EYE STRAIN! Type '/' forward slash, followed by the term you would like to search for and hit 'enter'. Cycle through the term by pressing 'n' for next.
 5. **[File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)**
    - How to make, remove, rename, copy and move files and directories.
-     - f
-6. ****
-7. ****
-
-## Things I want to know more about
+     - Use `mkdir [options]<Directory>` to create a directory, and make your life easier.
+     - Typing `-p` after mkdir and before the file will confirm what file you are adding and removing in the terminal. Without this, the terminal doesn't confirm this.
+     - `cp` Copies a file or directory.
+     - `mv` Moves a file or directory as well as renaming.
+     - `rm` Remove - ie. Delete a file.
+6. **[Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)**
+   - Great resource for terminal information.
 
 [<---BACK](README.md)
