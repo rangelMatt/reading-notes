@@ -52,6 +52,7 @@
 ## Code 401 - Advanced Software Development
 
 - [Prep: The Growth Mindset01 Reading](401class-pre01.md)
+- [Prep: Practice in the Terminal](401class-pre02.md)
 
 ---------------
 
