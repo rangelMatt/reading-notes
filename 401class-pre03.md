@@ -14,51 +14,51 @@ Please see below snippets of the completed assignment as tasked.
 
 #### Lesson 01
 
-![Lesson 1](images/lesson-01_sql_mRan.png)
+![Lesson 1](./images/lesson-01_sql_mRan.png)
 
 #### Lesson 02
 
-![Lesson 2](images/lesson-02_sql_mRan.png)
+![Lesson 2](./images/lesson-02_sql_mRan.png)
 
 #### Lesson 03
 
-![Lesson 3](images/lesson-03_sql_mRan.png)
+![Lesson 3](./images/lesson-03_sql_mRan.png)
 
 #### Lesson 04
 
-![Lesson 4](images/lesson-04_sql_mRan.png)
+![Lesson 4](./images/lesson-04_sql_mRan.png)
 
 #### Lesson 05
 
-![Lesson 5](images/lesson-05_sql_mRan.png)
+![Lesson 5](./images/lesson-05_sql_mRan.png)
 
 #### Lesson 06
 
-![Lesson 6](images/lesson-06_sql_mRan.png)
+![Lesson 6](./images/lesson-06_sql_mRan.png)
 
 #### Lesson 13
 
-![Lesson 13](images/lesson-13_sql_mRan.png)
+![Lesson 13](./images/lesson-13_sql_mRan.png)
 
 #### Lesson 14
 
-![Lesson 14](images/lesson-14_sql_mRan.png)
+![Lesson 14](./images/lesson-14_sql_mRan.png)
 
 #### Lesson 15
 
-![Lesson 15](images/lesson-15_sql_mRan.png)
+![Lesson 15](./images/lesson-15_sql_mRan.png)
 
 #### Lesson 16
 
-![Lesson 16](images/lesson-16_sql_mRan.png)
+![Lesson 16](./images/lesson-16_sql_mRan.png)
 
 #### Lesson 17
 
-![Lesson 17](images/lesson-17_sql_mRan.png)
+![Lesson 17](./images/lesson-17_sql_mRan.png)
 
 #### Lesson 18
 
-![Lesson 18](images/lesson-18_sql_mRan.png)
+![Lesson 18](./images/lesson-18_sql_mRan.png)
 
 ## Things I want to know more about
 
