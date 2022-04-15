@@ -60,6 +60,4 @@ Please see below snippets of the completed assignment as tasked.
 
 ![Lesson 18](./images/lesson-18_sql_mRan.png)
 
-## Things I want to know more about
-
 [<---BACK](README.md)
