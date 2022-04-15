@@ -14,7 +14,7 @@ Please see below snippets of the completed assignment as tasked.
 
 #### Lesson 01
 
-![Lesson 1](./images/lesson-01_sql_mRan.png)
+![Lesson 1](images/lesson-01_sql_mRan.png)
 
 #### Lesson 02
 
