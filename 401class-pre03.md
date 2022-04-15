@@ -22,11 +22,11 @@ Please see below snippets of the completed assignment as tasked.
 
 #### Lesson 03
 
-![Lesson 3](./images/lesson-03_sql_mRan.png)
+![Lesson 3](./Images/lesson-03_sql_mRan.png)
 
 #### Lesson 04
 
-![Lesson 4](./images/lesson-04_sql_mRan.png)
+![Lesson 4](./Images/lesson-04_sql_mRan.png)
 
 #### Lesson 05
 
