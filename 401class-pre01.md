@@ -49,4 +49,27 @@ The best way to build grit, is the growth mindset. The ability to learn, is not 
 
 Take the best ideas, strongest intuition, and test them. Be willing to fail.
 
+-------
+
+## [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
+
+### A kinder, gentler philosophy of success
+
+Career crisis happen on sunday evening. We live in an age with career crisis
+It's harder than ever now, to have a career crisis and anxiety. That's because we are focusing on ourselves with judgment coming from all angles around us, which only magnifies the stress and anxiety that we give ourselves. This stems from snobbery. We believe that we are defined by our job and it is confirmed when we share our job with others, to which others respond with fascination or are bored immediately.
+
+What solidifies the above idea is that we have tied an emotional reward with material goods. When we buys something *really* expensive (a Ferrari, a big house, a nice vacation), we give ourselves validation that we are longing for. We long to be envied, which is a dominant emotion grasping today's society. Because of this, we work harder to achieve more.
+
+It's harder now more than ever to feel calm. We are constantly being told that we can do anything and we can achieve anything as along as we work hard for it. The problem with that is, we then let that end result define us. Whether it be working long hours consistently to finally reach a successful level, then we think, "of course that person is successful, they worked hard and deserve this". But when the opposite happens, and they are at the bottom of society, we believe that they deserve to be at the bottom". The people at the bottom are viewed as `losers` in today's society.
+
+Back in the 17th century, the bottom of the society was looked at as unfortunate. One says that person is something and will always be that thing. The other says that person is something but can possible come into good fortune and change their trajectory in life. Looking at how we view ourselves today, people take things *very* personally. We own our success as well as we own our failures. Meaning, we let that embody us and define us.
+
+When we define success, we see a person with lots of money and has respect. One major flaw in that is that person is definitely lacking in some other aspect in their life.
+
+In order to turn this around, we should define our own idea of success. Own that and embody our own ambition. That is where success lies.
+
+I love the quote that was passed in this lecture. It's a reminder that, you are not defined by the position you have, but rather how you conduct yourself and others around you.
+
+> "It's a sin to judge any man by his post" - St. Augustine in 'The City of God'
+
 [<---BACK](README.md)
