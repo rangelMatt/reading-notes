@@ -54,6 +54,7 @@
 - [Prep: The Growth Mindset01 Reading](401class-pre01.md)
 - [Prep: Practice in the Terminal](401class-pre02.md)
 - [Prep: Introduction to SQL](401class-pre03.md)
+- [Class 01 Reading](401class-01.md)
 
 ---------------
 
