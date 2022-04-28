@@ -62,6 +62,7 @@
 - [Class 06 Reading](401class-06.md)
 - [Class 07 Reading](401class-07.md)
 - [Class 08 Reading](401class-08.md)
+- [Class 09 Reading](401class-09.md)
 
 ---------------
 
