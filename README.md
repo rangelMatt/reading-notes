@@ -70,6 +70,7 @@
 - [Class 14 Reading](401class-14.md)
 - [Class 15 Reading](401class-15.md)
 - [Class 16 Reading](401class-16.md)
+- [Class 17 Reading](401class-17.md)
 
 ---------------
 
