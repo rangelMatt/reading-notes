@@ -73,6 +73,7 @@
 - [Class 17 Reading](401class-17.md)
 - [Class 18 Reading](401class-18.md)
 - [Class 19 Reading](401class-19.md)
+- [Class 26 Reading](401class-26.md)
 
 ---------------
 
