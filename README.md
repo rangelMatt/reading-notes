@@ -76,6 +76,7 @@
 - [Class 26 Reading](401class-26.md)
 - [Class 27 Reading](401class-27.md)
 - [Class 28 Reading](401class-28.md)
+- [Class 29 Reading](401class-29.md)
 
 ---------------
 
