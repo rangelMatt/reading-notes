@@ -84,7 +84,6 @@
 
 - [Big-O Reading](side-01.md)
 
-
 ---------------
 
 ## Growth Mindset
