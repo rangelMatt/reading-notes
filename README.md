@@ -79,6 +79,11 @@
 - [Class 29 Reading](401class-29.md)
 - [Class 30 Reading](401class-30.md)
 
+## Reading on the Side
+
+- [Big-O Reading](side-01.md)
+
+
 ---------------
 
 ## Growth Mindset
