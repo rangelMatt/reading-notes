@@ -80,6 +80,7 @@
 - [Class 30 Reading](401class-30.md)
 - [Class 32 Reading](401class-32.md)
 - [Class 33 Reading](401class-33.md)
+- [Class 34 Reading](401class-34.md)
 
 ## Reading on the Side
 
