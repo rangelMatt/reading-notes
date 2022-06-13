@@ -85,6 +85,7 @@
 - [Class 37 Reading](401class-37.md)
 - [Class 38 Reading](401class-38.md)
 - [Class 39 Reading](401class-39.md)
+- [Class 41 Reading](401class-41.md)
 
 ## Reading on the Side
 
