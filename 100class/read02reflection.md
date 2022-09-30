@@ -270,11 +270,11 @@ Use the man pages so you can easily look stuff up.
 >
 > **which** <br> Tells you the path to a particular program.
 >
-> **$** <br> Placed before a variable name when we are referringt to it's value.
+> **$** <br> Placed before a variable name when we are referring to it's value.
 >
 > **``** <br> Backticks. Used to save the output of a program into a variable.
 >
-> **date** <br> Prints the date.
+> **date** </br> Prints the date.
 >
 > **if[] then else fi** <br> Perform basic conditional logic
   
