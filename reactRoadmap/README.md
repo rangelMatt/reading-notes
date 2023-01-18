@@ -1,18 +1,8 @@
-# Reading Notes 1/17/2023
+# Reading Notes
 
 ## Intro to React
 
-- [100 Level Notes](100-react.md)
-  - Create React App
-  - CLI Tools
-  - Components
-    - Class
-    - Functional
-    - Basics
-      - JSX
-      - Props vs State
-      - Conditional Rendering
-      - Composition
+- [100 Level](100-react.md)
 
 ## References Used
 
