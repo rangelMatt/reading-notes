@@ -2,7 +2,17 @@
 
 ## Intro to React
 
-- [100 Level](100-react.md)
+- [100 Level Notes](100-react.md)
+  - Create React App
+  - CLI Tools
+  - Components
+    - Class
+    - Functional
+    - Basics
+      - JSX
+      - Props vs State
+      - Conditional Rendering
+      - Composition
 
 ## References Used
 
