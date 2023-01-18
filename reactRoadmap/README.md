@@ -1,4 +1,4 @@
-# React Roadmap Reading Notes
+# Reading Notes
 
 ## Intro to React
 

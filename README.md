@@ -3,7 +3,7 @@
 Please see the below links for my web development notes and my journey to learn.
 
 - [Code Fellows Bootcamp](./CodeFellows/README.md)
-- [React Road Map Notes](./react-roadmap/README.md)
+- [React Road Map Notes](./reactRoadmap/README.md)
 
 ## Growth Mindset
 
