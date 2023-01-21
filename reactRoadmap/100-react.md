@@ -54,6 +54,70 @@ These methods are called in the following order when an instance of a component 
 - **componentDidMount()**
   - Invoked immediately after a component is mounted (inserted into the tree). Initialization that requires DOM nodes should go here.
 
+#### Class Components
+
+Components can either be created using the class based approach or a functional approach. These components are simple classes (made up of multiple functions that add functionality to the components are child classes for the Component class of ReactJS.
+
+Although the class components are supported in React, it is encouraged to write functional components and make use of hooks in modern React applications.
+
+The downside of Class components is that you will be downloading a bunch of preloaded libraries whether you want them or not. As your code base grows bigger and bigger this means more data must be transferred on each page load and longer and longer rendering times.
+
+
+
+
+#### Functional Components
+
+`Functional Components` are some of the more common components that will come across while working in React. These are simply JavaScript functions. We can create a functional component to React by writing a JavaScript function. These functions may or may not receive data as parameters. in the functional Components, the return value is the JSX code to render to the DOM tree. Functional components can also have state which is managed using React hooks.
+
+Hooks are special functions that allow ReactJS features to be used in **functional components**.
+
+`Functional Components` do not have access to dedicated state variables like `class-based components`. ReactJS has access to a special hook called `useState()` that cna be used for giving the illusion of working with the state in functional components. The `useState()` is used to initialize only one state variable to initialize multiple state variables, multiple `useState()` declarations are required. The first value returned is the initial value of the state variable, while the second value returned is a reference to the function that updates it. When the state variable needs to be updated, it can be done by calling the update function and by updating the state variable directly inside it.
+
+```javascript
+import React, { useState } from 'react';
+
+const Example=()=> {
+  // initializing state at `change` then updating state `setChange` starting at true to false
+const [change, setChange] = useState(true); 
+ return (
+  <div>
+  // once the button is clicked, setChange will be called and change will update to false...
+  <button onClick = {() => setChange(!change)}>
+  Click Here!
+  </button>
+  // ... which will update our ternary from true to false, which is the latter choice after the colon (:).
+  {change?<h1>Welcome to Geeks for Geeks</h1>:
+    <h1>A Computer Science Portal for Geeks</h1>}
+  </div>
+  );
+}
+
+export default Example;
+
+```
+
+Lifecycle functions like class-based components are not accessible to Functional components since lifecycle functions need to be defined within the boundaries of a class. If lifecycle functions need to be used with functional components, a special React hook called `useEffect()` isn't an exact duplicate of the lifecycle functions - it works and behaves in a slightly different manner.
+
+```javascript
+import React, { useEffect } from 'react';
+
+const Example=()=> {
+useEffect(() => {
+ console.log("Mounting...");
+});
+ return (
+ <h1>
+  Geeks....!
+ </h1>
+ );
+}
+
+export default Example;
+
+```
+
+Data is passed from the parent component to the child components in the form of props. ReactJS does not allow a component to modify its own props as a rule. The only way to modify the props is to change the props being passed to the child component. This is generally done by passing a reference of a function in the parent component to the child component. Props have more significance in functional components for the simple reason that functional components do not have access to a state, unlike class-based components.
+
 1. ****
 2. ****
 3. ****
