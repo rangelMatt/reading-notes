@@ -1,9 +1,17 @@
-# Software Engineering Reading Notes
+# Matt Rangel's Notes
+
+## Software Engineering Reading Notes
 
 Please see the below links for my web development notes and my journey to learn.
 
 - [Code Fellows Bootcamp](./CodeFellows/README.md)
 - [React Road Map Notes](./reactRoadmap/README.md)
+
+## Social Media Posts
+
+Please see the below link for my posts on Social Media, currently only posting on LinkedIn.
+
+
 
 ## Growth Mindset
 
