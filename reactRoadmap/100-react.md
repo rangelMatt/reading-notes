@@ -62,8 +62,11 @@ Although the class components are supported in React, it is encouraged to write 
 
 The downside of Class components is that you will be downloading a bunch of preloaded libraries whether you want them or not. As your code base grows bigger and bigger this means more data must be transferred on each page load and longer and longer rendering times.
 
+With functional components the component start out much lighter and you can add capabilities as you need them. Yes it may take a little bit more work when creating the component to go and import the `useState` and `useEffect` hooks, and to set each one up rather than having it reloaded for you, but that little bit of extra work could pay dividends in terms of app loading size and file size when you start expanding your application.
 
+For most application, `useState`, `useEffect`, and `useContext` should cover about 99% of the things you would need a Class Component for. There are also [__several more hooks__](https://reactjs.org/docs/hooks-reference.html) for use in more specific applications.
 
+But if you are a newbie, focus on and master useState, useEffect, and `useContext`.
 
 #### Functional Components
 
