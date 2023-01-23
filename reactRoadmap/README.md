@@ -2,7 +2,7 @@
 
 ## Intro to React
 
-- [100 Level Notes](100-react.md)
+- [100 Level Notes](100-react.md) with topics included, but not limited to:
   - Create React App
   - CLI Tools
   - Components
