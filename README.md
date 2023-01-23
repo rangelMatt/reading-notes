@@ -11,7 +11,7 @@ Please see the below links for my web development notes and my journey to learn.
 
 Please see the below link for my posts on Social Media, currently only posting on LinkedIn.
 
-
+- [Matt's Musings, *or "a-musings"*](./newsLetter/README.md)
 
 ## Growth Mindset
 
