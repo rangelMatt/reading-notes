@@ -42,10 +42,11 @@ I can safely say that I have a fixed mindset, but I also practice having a growt
 Consciously stopping and thinking about the growth mindset when effort is being required/asked of. No pain, no gain is true. I do a physical work out every day to remind my mind of this saying. I have to push through mentally to either get out of bed, do an extra rep, or an extra lap. This is to remind my brain, outside of working out, that I can put in the extra effort at work, and with family and friends as well.
 
 [Matt Rangel][2]
-Please click [here][2] for my Main GitHub Page.
 
 [2]: <https://github.com/rangelMatt> "Matt's GitHub"
 
 > `When you want something, all the universe conspires in helping you to achieve it.` — [The Alchemist][1] by Paulo Coelho
 
 [1]: <https://g.co/kgs/Tz6J9W> "The Universe Conspires"
+
+Please click [here][2] for my Main GitHub Page.
