@@ -1,5 +1,7 @@
 # Matt Rangel's Notes
 
+- [Matt Rangel's Main Github Page][2]
+
 ## Software Engineering Reading Notes
 
 Please see the below links for my web development notes and my journey to learn.
