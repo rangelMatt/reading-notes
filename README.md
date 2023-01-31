@@ -15,6 +15,8 @@ Please see the below link for my posts on Social Media, currently only posting o
 
 - [Matt's Musings, *or "a-musings"*](./newsLetter/README.md)
 
+## [Athletic Notes](./athleticNotes/README.md)
+
 ## Growth Mindset
 
 ### Lifelong Learner
