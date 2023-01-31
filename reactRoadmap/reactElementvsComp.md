@@ -78,16 +78,6 @@ console.log(App());
 // }
 ```
 
-1. ****
-2. ****
-3. ****
-4. ****
-5. ****
-6. ****
-7. ****
-
-## Things I want to know more about
-
 ### Citation: [What is the difference between components, elements, and instances?](https://www.robinwieruch.de/react-element-component/)
 
 [<---BACK](README.md)
