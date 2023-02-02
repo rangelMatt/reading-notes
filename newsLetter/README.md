@@ -3,5 +3,6 @@
 ## `Lit`erature
 
 - [At Home PM](homePm.md)
+- [First Paid App](firstPaidApp.md)
 
 [<---BACK](../README.md)
