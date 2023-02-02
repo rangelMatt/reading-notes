@@ -15,6 +15,8 @@ Best,
 
 Matt Rangel
 
+(The above web app was built entirely from scratch code. If interested, I can help design and build apps from [Wix](https://www.wix.com/app-builder) and/or [Wordpress](https://wordpress.com/). If you or someone you know is interested, just reach out and let me know!)
+
 - [Github Repo](https://github.com/rangelMatt)
 - [First Paid App](https://rangelmatt.github.io/reading-notes/newsLetter/firstPaidApp.html)
 
