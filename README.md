@@ -8,6 +8,7 @@ Please see the below links for my web development notes and my journey to learn.
 
 - [Code Fellows Bootcamp](./CodeFellows/README.md)
 - [React Road Map Notes](./reactRoadmap/README.md)
+- [Data Structures and Algorithms](https://github.com/rangelMatt/dsa-exercises)
 
 ## Social Media Posts
 
