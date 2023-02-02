@@ -1,4 +1,4 @@
-# First Paid App 1/24/2023
+# First Paid App 2/2/2023
 
 Hey everyone! Check out my first paid gig, [here](https://centralcoastbarbell.com/)
 It's a website for a local gym that I built while studying to help balance "theoretical learning" with "tangible implementation". It's built with React, CSS, SASS, and deployed on Netlifly.
