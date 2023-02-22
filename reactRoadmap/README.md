@@ -13,6 +13,7 @@
       - Props vs State
       - Conditional Rendering
       - Composition
+      - [Elements vs. Component](reactElementvsComp.md)
 
 ## References Used
 
