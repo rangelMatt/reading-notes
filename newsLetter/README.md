@@ -1,8 +1,9 @@
-# Matt's Musings, *or "a-musings"*
+# Matt's Musings, _or "a-musings"_
 
-## `Lit`erature
+## Literature
 
 - [At Home PM](homePm.md)
 - [First Paid App](firstPaidApp.md)
+- [Portfolio](portfolio.md)
 
 [<---BACK](../README.md)
