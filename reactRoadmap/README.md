@@ -2,6 +2,8 @@
 
 ## Intro to React
 
+- [Beginners Guide](beginnersGuide.md)
+  - For broad stokes on how to start working with React
 - [100 Level Notes](100-react.md) with topics included, but not limited to:
   - Create React App
   - CLI Tools
