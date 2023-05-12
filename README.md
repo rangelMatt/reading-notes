@@ -6,7 +6,7 @@
 
 Please see the below links for my Project Management course notes.
 
-- [Google Project Management Certificate](https://rangelmatt.github.io/googlePMCert/)
+- [Google Project Management Certificate](../reading-notes/googlePmCert/README.md)
 
 ## Software Engineering Reading Notes
 
