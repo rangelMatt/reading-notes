@@ -1,12 +1,11 @@
 # Becoming an Effective Project Manager
 
-Introduce to project management as a career path
+## Recap of Previous Week
 
-career goals with PM Cert.
+Introduced to project management as a career path and career goals with PM Cert.
+We also looked at how to define a project, and components within to help formulate a successful project.
 
-How to define a project, and components
-
-Describe careers, roles, and responsibilities.
+Also went over describing careers, roles, and responsibilities.
 
 - Explain the unique value a project manger brings to their team
 - Describe a project manager's roles and responsibilities
