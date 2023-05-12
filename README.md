@@ -22,7 +22,11 @@ Please see the below link for my posts on Social Media, currently only posting o
 
 - [Matt's Musings, _or "a-musings"_](./newsLetter/README.md)
 
-## [Athletic Notes](./athleticNotes/README.md)
+## Athletic Notes
+
+Please see the below link for my notes my athletic journey.
+
+- [Athletic Notes](./athleticNotes/README.md)
 
 ## Growth Mindset
 
