@@ -8,7 +8,7 @@ By the end of the program, you'll have a thorough understanding of the key conce
 
 Overall, the Google Project Management Certification Course is an engaging, accessible, and highly valuable program that can help you achieve your career goals and become a successful project manager.
 
-- [Week 1 - Careers](./Week_1/pmCareers.md)
-- [Week 2 - Becoming an effective Project Manager](./Week_2/effectivePM.md)
+- [Week 1: Careers](./Week_1/pmCareers.md)
+- [Week 2: Becoming an effective Project Manager](./Week_2/effectivePM.md)
 
-<---[Back](../README.md) to Main Reading Notes
+[<---Back](../README.md)
