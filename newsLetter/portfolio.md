@@ -1,5 +1,7 @@
 # Portfolio 4/6/2023
 
+![Portfolio Shot](../Images/Portfolio%20shot.png)
+
 Hey everyone! Checkout my revamped portfolio page!, [here](https://www.mattjrangel.com/)
 It's a website showcasing what I've built alongside what I have learned.. It's built with NextJS, Tailwind CSS, Framer Motion, and deployed on Vercel.
 
