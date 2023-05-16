@@ -13,6 +13,8 @@ Also went over describing careers, roles, and responsibilities.
 
 ## Value of a project manager
 
+![Curtain of Buildings](https://images.unsplash.com/photo-1598301257982-0cf014dabbcd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+
 > **Project Managers**:
 > Shepherd projects from start to finish and serve as guides for their team, using their impeccable organizational and interpersonal skills every step of the way.
 
