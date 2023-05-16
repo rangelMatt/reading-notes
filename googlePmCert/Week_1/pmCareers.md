@@ -1,4 +1,4 @@
-# Learning about careers in Project Manager
+# Learning about careers in Project Management
 
 ## Finding the perfect role
 
