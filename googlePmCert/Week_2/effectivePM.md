@@ -108,4 +108,4 @@ How can you break down barriers on a project? You can provide support for your t
 
 By focusing on the customer, building a great project team, fostering relationships and communication, managing the project, and breaking down barriers, you can overcome obstacles and find solutions to succeed.
 
-[<---BACK](/googlePmCert/googlePmCert.md)
+[<---BACK](../googlePmCert.md)
