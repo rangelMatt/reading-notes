@@ -2,8 +2,9 @@
 
 ## Literature
 
-- [At Home PM](homePm.md)
-- [First Paid App](firstPaidApp.md)
+- [Continuing Education in Project Management](contPm.md)
 - [Portfolio](portfolio.md)
+- [First Paid App](firstPaidApp.md)
+- [At Home PM](homePm.md)
 
 [<---BACK](../README.md)

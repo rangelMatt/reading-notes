@@ -108,14 +108,4 @@ How can you break down barriers on a project? You can provide support for your t
 
 By focusing on the customer, building a great project team, fostering relationships and communication, managing the project, and breaking down barriers, you can overcome obstacles and find solutions to succeed.
 
-## Key Project manager roles and responsibilities
-
-Project management is the application of knowledge, skills, tools, and techniques to meet the project requirements and achieve the desired outcome. Project managers usually follow a process that involves planning and organizing, managing tasks, budgeting, and controlling costs, and other factors, so that the project can be completed within the approved budget and time frame.
-
-Breaking these down:
-
-- **Planning and organizing**: making use of productivity tools and creating processes. During the planning and execution of a project, you might need to use certain tools and develop processes to improve information sharing across the team; you may also need to create plans, timelines, schedules, and other forms of documentation to track project completion, and you'll usually need to maintain those documents throughout the entirety of the project.
-- **Budgeting and controlling costs**: While the project is underway, changes to the plan and budget are bound to come up. This requires constant monitoring and managing the budget, track issues and risks as they arise, and manage quality by mitigating those issues and risks. ONe way to do this is by removing unforeseen barriers that come up. For example, a barrier could be if if a teammates lacking the resources needed to complete a task, you might identify the issue, or barrier upfront, escalate the issue to a stakeholder, work to secure the resource so your team can move forward.
-- **Managing tasks**: A project task is an activity that needs to be accomplished within a set period of time by you, your team, or your stakeholders. Keeping track of tasks is a great way to help manage the team's workload and ensure that things are getting done. Keeping track of tasks is also a great tool for demonstrating progress to people outside the immediate team, like your stakeholders.
-
 [<---BACK](/googlePmCert/googlePmCert.md)
