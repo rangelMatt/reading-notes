@@ -14,7 +14,10 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 2: Becoming an effective Project Manager](./Week_2/effectivePM.md)
 - [Week 2.2: Learning more about PM Roles and Responsibilities](./Week_2/2.2effective.md)
 - [Week 2.3: Acquiring the core skills of a successful project manager](./Week_2/2.3core.md)
-- [Week 3: Project Life Cycle](./Week_3/3.1projectLifeCycle.md)
-- [Week 3: Project Management methodologies](./Week_3/3.2pmMethodologies.md)
+- [Week 3.1: Project Life Cycle](./Week_3/3.1projectLifeCycle.md)
+- [Week 3.2: Project Management methodologies](./Week_3/3.2pmMethodologies.md)
+- [Week 4.1: Understanding organizational Structure](./Week_4/4.1.md)
+- [Week 4.2: Understanding organizational Structure](./Week_4/4.2.md)
+- [Week 4.3: Understanding Change Management](./Week_4/4.3.md)
 
 [<---Back](../README.md)
