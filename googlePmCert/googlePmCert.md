@@ -19,5 +19,6 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 4.1: Understanding organizational Structure](./Week_4/4.1.md)
 - [Week 4.2: Understanding organizational Structure](./Week_4/4.2.md)
 - [Week 4.3: Understanding Change Management](./Week_4/4.3.md)
+- [Week 4.4: Pursuing your new career](./Week_4/4.4.md)
 
 [<---Back](../README.md)
