@@ -10,15 +10,21 @@ By the end of the program, you'll have a thorough understanding of the key conce
 
 Overall, the Google Project Management Certification Course is an engaging, accessible, and highly valuable program that can help you achieve your career goals and become a successful project manager.
 
-- [Week 1: Careers](./Week_1/pmCareers.md)
-- [Week 2: Becoming an effective Project Manager](./Week_2/effectivePM.md)
-- [Week 2.2: Learning more about PM Roles and Responsibilities](./Week_2/2.2effective.md)
-- [Week 2.3: Acquiring the core skills of a successful project manager](./Week_2/2.3core.md)
-- [Week 3.1: Project Life Cycle](./Week_3/3.1projectLifeCycle.md)
-- [Week 3.2: Project Management methodologies](./Week_3/3.2pmMethodologies.md)
-- [Week 4.1: Understanding organizational Structure](./Week_4/4.1.md)
-- [Week 4.2: Understanding organizational Structure](./Week_4/4.2.md)
-- [Week 4.3: Understanding Change Management](./Week_4/4.3.md)
-- [Week 4.4: Pursuing your new career](./Week_4/4.4.md)
+## Foundations of Project Management
+
+- [Week 1: Careers](./1.Week_1_Foundations/pmCareers.md)
+- [Week 2: Becoming an effective Project Manager](./1.Week_2_Foundations/effectivePM.md)
+- [Week 2.2: Learning more about PM Roles and Responsibilities](./1.Week_2_Foundations/2.2effective.md)
+- [Week 2.3: Acquiring the core skills of a successful project manager](./1.Week_2_Foundations/2.3core.md)
+- [Week 3.1: Project Life Cycle](./1.Week_3_Foundations/3.1projectLifeCycle.md)
+- [Week 3.2: Project Management methodologies](./1.Week_3_Foundations/3.2pmMethodologies.md)
+- [Week 4.1: Understanding organizational Structure](./1.Week_4_Foundations/4.1.md)
+- [Week 4.2: Understanding organizational Structure](./1.Week_4_Foundations/4.2.md)
+- [Week 4.3: Understanding Change Management](./1.Week_4_Foundations/4.3.md)
+- [Week 4.4: Pursuing your new career](./1.Week_4_Foundations/4.4.md)
+
+## Project Initiation: Starting a Successful Project
+
+- [Week 1: Fundamentals of project initiation](./2.Week_1_Initiation/1.1.md)
 
 [<---Back](../README.md)
