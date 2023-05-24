@@ -8,6 +8,11 @@ Please see the below links for my Project Management course notes.
 
 - [Google Project Management Certificate](./googlePmCert/googlePmCert.md)
 
+## Product Management Notes
+
+- [The three "PM"s: Differentiating between Product, Project, and Program Management](./productManager/threePMs.md)
+- [6 In-Product Experiment Types for Continuous Discovery (& How to Run Them Effectively)](./productManager/inProductExperiments.md)
+
 ## Software Engineering Reading Notes
 
 Please see the below links for my web development notes and my journey to learn.
