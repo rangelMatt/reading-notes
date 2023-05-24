@@ -12,6 +12,7 @@ Please see the below links for my Project Management course notes.
 
 - [The three "PM"s: Differentiating between Product, Project, and Program Management](./productManager/threePMs.md)
 - [6 In-Product Experiment Types for Continuous Discovery (& How to Run Them Effectively)](./productManager/inProductExperiments.md)
+- [Product Sense)](./productManager/productSense.md)
 
 ## Software Engineering Reading Notes
 

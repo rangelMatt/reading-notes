@@ -201,4 +201,6 @@ In-product experiments make feature updates, interface redesigns, and product ad
 
 **Remember**: Your product development should be based on facts, not theories. Approach experiments with the curiosity that fueled your childhood experiments, and combine it with the knowledge and processes that you've developed as a top-notch product manager.
 
+### Reference: [In Product Experiments](https://www.chameleon.io/blog/in-product-experiments)
+
 [<---Back](../README.md)

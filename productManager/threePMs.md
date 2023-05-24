@@ -75,4 +75,6 @@ Product, project, and program share the need to collaborate across functions, co
 
 > Caveat: A project manager can manage multiple projects and not be a program manager. These definitions don't align with the Microsoft definition of a program manager. Lastly, this assessment is based on an interpretation of job descriptions and conversations with peers in these roles.
 
+### Reference: [Three PMs differentiating between product-project-program](https://www.linkedin.com/pulse/three-pms-differentiating-between-product-project-diamonde-henderson/)
+
 [<---Back](../README.md)
