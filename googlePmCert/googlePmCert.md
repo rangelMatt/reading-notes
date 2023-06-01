@@ -26,5 +26,8 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 ## Project Initiation: Starting a Successful Project
 
 - [Week 1: Fundamentals of project initiation](./2.Week_1_Initiation/1.1.md)
+- [Week 2.1: Intro: Defining project goals, scope, and success criteria](./2.Week_2_Defining/2.1.md)
+- [Week 2.2: How to set SMART goals](./2.Week_2_Defining/2.2.md)
+- [Week 2.3: SMART goals: Making goals meaningful](./2.Week_2_Defining/2.3.md)
 
 [<---Back](../README.md)
