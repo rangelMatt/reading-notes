@@ -31,5 +31,6 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 2.3: SMART goals: Making goals meaningful](./2.Week_2_Defining/2.3.md)
 - [Week 2.4: Defining project scope](./2.Week_2_Defining/2.4.md)
 - [Week 2.5: Measuring a project's success](./2.Week_2_Defining/2.5.md)
+- [Week 3.1: Exploring project team roles and responsibilities](./2.Week_3_Stakeholders/3.1.md)
 
 [<---Back](../README.md)
