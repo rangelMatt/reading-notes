@@ -32,5 +32,7 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 2.4: Defining project scope](./2.Week_2_Defining/2.4.md)
 - [Week 2.5: Measuring a project's success](./2.Week_2_Defining/2.5.md)
 - [Week 3.1: Exploring project team roles and responsibilities](./2.Week_3_Stakeholders/3.1.md)
+- [Week 3.2: Assigning project team roles and responsibilities](./2.Week_3_Stakeholders/3.2.md)
+- [Week 3.3: Why projects fail: Initiation missteps](./2.Week_3_Stakeholders/3.3.md)
 
 [<---Back](../README.md)
