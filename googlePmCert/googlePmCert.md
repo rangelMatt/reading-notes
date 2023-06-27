@@ -36,5 +36,6 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 3.3: Why projects fail: Initiation missteps](./2.Week_3_Stakeholders/3.3.md)
 - [Week 4.1: Introduction: Utilizing resources and tools for project success](./2.Week_4_Project_Resources/4.1.md)
 - [Week 4.2: The value of project documentation](./2.Week_4_Project_Resources/4.2.md)
+- [Week 4.3: Evaluating tools to meet project needs](./2.Week_4_Project_Resources/4.3.md)
 
 [<---Back](../README.md)
