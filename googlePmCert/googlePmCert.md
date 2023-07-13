@@ -38,4 +38,8 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 4.2: The value of project documentation](./2.Week_4_Project_Resources/4.2.md)
 - [Week 4.3: Evaluating tools to meet project needs](./2.Week_4_Project_Resources/4.3.md)
 
+## Project Planning: Putting It All Together
+
+- [Week 3.1: Beginning the planning phase](./3.Week_1_AllTogether/3.1.1.md)
+
 [<---Back](../README.md)
