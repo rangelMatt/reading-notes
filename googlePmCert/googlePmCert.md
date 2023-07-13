@@ -41,5 +41,6 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 ## Project Planning: Putting It All Together
 
 - [Week 3.1: Beginning the planning phase](./3.Week_1_AllTogether/3.1.1.md)
+- [Week 3.2: Understanding tasks and milestones](./3.Week_1_AllTogether/3.1.2.md)
 
 [<---Back](../README.md)
