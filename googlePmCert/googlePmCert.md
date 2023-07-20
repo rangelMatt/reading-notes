@@ -43,5 +43,6 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 1.1 : Beginning the planning phase](./3.Week_1_AllTogether/1.1.md)
 - [Week 1.2: Understanding tasks and milestones](./3.Week_1_AllTogether/1.2.md)
 - [Week 2.1: Building a project plan](./3.Week_2_Building/2.1.md)
+- [Week 2.2: Utilizing tools to build a project plan](./3.Week_2_Building/2.2.md)
 
 [<---Back](../README.md)
