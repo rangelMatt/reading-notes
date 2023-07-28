@@ -45,5 +45,7 @@ Overall, the Google Project Management Certification Course is an engaging, acce
 - [Week 2.1: Building a project plan](./3.Week_2_Building/2.1.md)
 - [Week 2.2: Utilizing tools to build a project plan](./3.Week_2_Building/2.2.md)
 - [Week 3.1: Managing budgeting and procurement](./3.Week_3_Budget/3.1.md)
+- [Week 3.2: Overcoming budgeting challenges](./3.Week_3_Budget/3.2.md)
+- [Week 3.3: Introduction to procurement](./3.Week_3_Budget/3.3.md)
 
 [<---Back](../README.md)
