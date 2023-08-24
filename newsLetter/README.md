@@ -6,5 +6,6 @@
 - [Portfolio](portfolio.md)
 - [First Paid App](firstPaidApp.md)
 - [At Home PM](homePm.md)
+- [AI-assisting Inspired Build](AIAssistJobHunt.md)
 
 [<---BACK](../README.md)
