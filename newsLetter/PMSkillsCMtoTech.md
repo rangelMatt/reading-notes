@@ -46,7 +46,7 @@ Considering the constant ebb and flow of the project life cycle and the overlap 
 
 The PMs create a safety net where the PMO (Project Management Office) flags something that needs to be addressed, so the SMEs so they can focus on their respective crafts. This allows the SME’s have a high level view, while the PMO focuses on making sure the ducks are lined up to be knocked down… or something like that.
 
-In the end, we all have a project manager within us. Planned a vacation? Pulled together a birthday party? Moved to another home? All of these have the frameworks of Project Management. Each value specific skill set of a PM that are different from each other.
+In the end, we all have a project manager within us. Planned a vacation? Pulled together a birthday party? Moved to another home? All of these share the frameworks of Project Management. Each value the specific skill set of a PM, regardless of how different the project appears to be.
 
 Which skill set of a PM is important for your organization?
 
