@@ -1,6 +1,6 @@
 # Portfolio 4/6/2023
 
-![Portfolio Shot](../Images/Portfolioshot.png)
+![Portfolio Shot](../Images/Portfolio%20shot.png)
 
 Hey everyone! Checkout my revamped portfolio page!, [here](https://www.mattjrangel.com/)
 It's a website showcasing what I've built alongside what I have learned.. It's built with NextJS, Tailwind CSS, Framer Motion, and deployed on Vercel.
@@ -18,6 +18,6 @@ Best,
 Matt Rangel
 
 - [Github Repo](https://github.com/rangelMatt)
-- [My Portfolio Article](https://rangelmatt.github.io/reading-notes/newsLetter/portfolio)
+- [My Portfolio Article](https://rangelmatt.github.io/reading-notes/newsLetter/portfolio.html)
 
 [<---BACK](README.md)
