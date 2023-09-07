@@ -2,7 +2,7 @@
 
 ## Matt Rangel
 
-## 4/6/2023
+## 9/7/2023
 
 ![Same But Different](../Images/samebutDiff.gif)
 
@@ -51,6 +51,6 @@ In the end, we all have a project manager within us. Planned a vacation? Pulled 
 Which skill set of a PM is important for your organization?
 
 - [Github Repo](https://github.com/rangelMatt)
-- [My Portfolio Article](https://rangelmatt.github.io/reading-notes/newsLetter/portfolio.html)
+- [The Transferable Skills Between Construction Project Management and Tech](https://rangelmatt.github.io/reading-notes/newsLetter/PMSkillsCMtoTech)
 
 [<---BACK](README.md)
