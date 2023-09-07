@@ -1,4 +1,8 @@
-# First Paid App 2/2/2023
+# First Paid App
+
+## Matt Rangel
+
+## 2/2/2023
 
 ![CCB Screenshot](../Images/ccbapp.png)
 
