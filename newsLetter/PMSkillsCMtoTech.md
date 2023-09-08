@@ -48,7 +48,7 @@ The PMs create a safety net where the PMO (Project Management Office) flags some
 
 In the end, we all have a project manager within us. Planned a vacation? Pulled together a birthday party? Moved to another home? All of these share the frameworks of Project Management. Each value the specific skill set of a PM, regardless of how different the project appears to be.
 
-Which skill set of a PM is important for your organization?
+Which PM skill set is important for your organization
 
 - [Github Repo](https://github.com/rangelMatt)
 - [The Transferable Skills Between Construction Project Management and Tech](https://rangelmatt.github.io/reading-notes/newsLetter/PMSkillsCMtoTech)
