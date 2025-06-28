@@ -24,4 +24,14 @@ You must be concise and specific in the prompt.
 
 > ## Idea Generation
 
+Ask ChatGPT what tools I could use for gathering my job opportunity list by scraping the web.
+
+By telling ChatGPT your goal and your current approach, you can discover alternatives.
+
+Keep your chats organized, separating out very different topics from each other into different chats. So you want to keep your chat on steps how to make a great pot roast from a chat about tuning your resume.
+
+Although I am well equipped to use code to scrape the web for relevant job postings, I wanted to use a no-code and low-code tools to get this job done. I will move forward with using [Browse AI](https://www.browse.ai/).
+
+After you sign in to Brows AI
+
 [<---BACK](README.md)
